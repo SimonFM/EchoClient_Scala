@@ -1,8 +1,7 @@
 /**
  * Created by Simon Markham  on 02/10/2015.
- * Student ID:  12307233
  *
- * My project can be found on github here:
+ * My project can be found on github here: https://github.com/SimonFM/EchoClient_Scala
  *
  * Based off stack overflow post
  * http://stackoverflow.com/questions/6414942/scala-equivalent-of-python-echo-server-client-example
